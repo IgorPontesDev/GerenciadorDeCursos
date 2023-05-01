@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YhcvSeBtKn1aXVFzLtKXrVHaOMbBjHbk5DtDO40cKF0=",
+  "Source": "GerenciadorDeCurso.WebAPI",
+  "BasePath": "_content/GerenciadorDeCurso.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

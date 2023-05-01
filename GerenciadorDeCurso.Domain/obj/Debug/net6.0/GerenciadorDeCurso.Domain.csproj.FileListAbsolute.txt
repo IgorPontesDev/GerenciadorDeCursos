@@ -1,0 +1,12 @@
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Domain\bin\Debug\net6.0\GerenciadorDeCurso.Domain.deps.json
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Domain\bin\Debug\net6.0\GerenciadorDeCurso.Domain.dll
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Domain\bin\Debug\net6.0\GerenciadorDeCurso.Domain.pdb
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Domain\obj\Debug\net6.0\GerenciadorDeCurso.Domain.csproj.AssemblyReference.cache
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Domain\obj\Debug\net6.0\GerenciadorDeCurso.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Domain\obj\Debug\net6.0\GerenciadorDeCurso.Domain.AssemblyInfoInputs.cache
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Domain\obj\Debug\net6.0\GerenciadorDeCurso.Domain.AssemblyInfo.cs
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Domain\obj\Debug\net6.0\GerenciadorDeCurso.Domain.csproj.CoreCompileInputs.cache
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Domain\obj\Debug\net6.0\GerenciadorDeCurso.Domain.dll
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Domain\obj\Debug\net6.0\refint\GerenciadorDeCurso.Domain.dll
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Domain\obj\Debug\net6.0\GerenciadorDeCurso.Domain.pdb
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Domain\obj\Debug\net6.0\ref\GerenciadorDeCurso.Domain.dll

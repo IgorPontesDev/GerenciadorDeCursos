@@ -1,0 +1,15 @@
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\obj\Debug\net6.0\GerenciadorDeCurso.Core.csproj.AssemblyReference.cache
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\obj\Debug\net6.0\GerenciadorDeCurso.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\obj\Debug\net6.0\GerenciadorDeCurso.Core.AssemblyInfoInputs.cache
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\obj\Debug\net6.0\GerenciadorDeCurso.Core.AssemblyInfo.cs
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\obj\Debug\net6.0\GerenciadorDeCurso.Core.csproj.CoreCompileInputs.cache
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\bin\Debug\net6.0\GerenciadorDeCurso.Core.deps.json
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\bin\Debug\net6.0\GerenciadorDeCurso.Core.dll
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\bin\Debug\net6.0\GerenciadorDeCurso.Core.pdb
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\bin\Debug\net6.0\GerenciadorDeCurso.Domain.dll
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\bin\Debug\net6.0\GerenciadorDeCurso.Domain.pdb
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\obj\Debug\net6.0\GerenciadorDeCurso.Core.csproj.CopyComplete
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\obj\Debug\net6.0\GerenciadorDeCurso.Core.dll
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\obj\Debug\net6.0\refint\GerenciadorDeCurso.Core.dll
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\obj\Debug\net6.0\GerenciadorDeCurso.Core.pdb
+C:\Users\igor\source\repos\Nova pasta\GerenciadorDeCurso\GerenciadorDeCurso.Core\obj\Debug\net6.0\ref\GerenciadorDeCurso.Core.dll
