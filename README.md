@@ -1,5 +1,5 @@
 # GerenciadorDeCursos
-Um projeto web API em .NET CORE6 criado para gerenciar um curso de idiomas
+Um projeto web API em .NET CORE6 criado para gerenciar um curso de idiomas utilizando entity framework na abordagem code-first e arquitetura DDD com MVC.
 
 Para rodar o projeto inicialmente precisa criar a base de dados faça os seguintes passos com o SQL SERVER INSTALADO e a String de conexão configurada no arquivo appsettings.json
 Abra o console do gerenciador nugget e digite:
